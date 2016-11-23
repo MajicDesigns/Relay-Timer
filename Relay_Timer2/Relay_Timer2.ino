@@ -46,7 +46,7 @@ Circuit Connections
 
 Library Dependencies
 --------------------
-MD_KeySwitch and MD_REncoder can be found at https://github.com/MajicDesigns/KeySwitch
+MD_KeySwitch and MD_REncoder can be found at https://github.com/MajicDesigns/MD_KeySwitch
 
 Revision History 
 ----------------
